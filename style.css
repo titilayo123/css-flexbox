@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+ display: flex;
+ background-color: #393531;
+ justify-content: space-between;
+ align-items: center;
+ padding: 20px;
+ cursor: pointer;
+}
+
+.container-header{
+    font-size: 30px;
+    color: #c74634;
+    
+    
+}
+
+.box-1{
+    display: flex;
+    gap: 10px;
+    font-size: 20px;
+    
+}
+
+.box-1 h4{
+   color: white; 
+}
+
+.box-2{
+    color: white;
+    gap: 10px;
+    padding: 10px;
+}
+
+.btn{
+    color: white;
+    background-color: black;
+    padding: 10px;
+    border-radius: 5px;
+    
+}
+
+.btn-2{
+    color: white;
+    background-color:#393531 ;
+    padding: 10px;
+    border-color: white;
+    border-radius: 5px;
+
+}
